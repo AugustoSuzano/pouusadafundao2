@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    
+    <head>
+            <title>Página 1</title>
+            <meta charset="UTF-8" >
+    </head>
+
+    <body>
+
+        <h1>Página 1</h1>
+        <a href="/">Link para página index</a>
+    </body>
+</html>
